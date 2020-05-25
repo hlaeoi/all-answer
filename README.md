@@ -45,12 +45,12 @@ public abstract class Event {
 	}
 
 }
-#2
+# 2
 1.connector监听端口，获取用户请求
 2.connector将请求交给engine处理
 3.engine通过请求主机名匹配对应host
 4.host再通过路径匹配到对应context
 5.context根据文件名匹配到对应servlet
-#3
+# 3
 
-#4
+# 4
